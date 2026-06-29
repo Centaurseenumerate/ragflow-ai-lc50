@@ -1,4 +1,4 @@
-# 
+# Código abierto RAGFlow extensiones. Con IA explicable y ajuste fino — optimizado para el máximo rendimiento y eficiencia.
 
 
 
